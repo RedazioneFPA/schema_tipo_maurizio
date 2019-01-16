@@ -1,7 +1,7 @@
 
 .. _h5550272736851491f734769332747f:
 
-PROGETTO MAURIZIO
+PROGETTO ANDREA
 ###############
 
 [descrizione]
@@ -41,7 +41,7 @@ in collaborazione con:
 
 .. |REPLACE1| raw:: html
 
-    <div class="progress">
+    .progress <div class="progress">
       <div class="progress-bar" style="width: 60%;"></div>
     </div>
 .. |REPLACE2| raw:: html
