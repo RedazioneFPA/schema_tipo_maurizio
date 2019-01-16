@@ -1,75 +1,58 @@
-Titolo del Read the Docs
-*********************
 
-``cultura della documentazione`` 
+.. _h5550272736851491f734769332747f:
 
-.. raw:: html
+PROGETTO ANDREA
+###############
 
-    <strong><span style="background-color: #126da5; color: #ffffff; display: inline-block; padding: 2px 8px; border-radius: 10px;">Questa è solo una bozza</span></strong>
-    <p></p>
-<div class="progress-container">
-      <div class="progress-bar" id="scrollprogressBar" style="width: 0%;"></div>
-    </div>
-Il repository dello **schema tipo RTD** si trova a questo  `link <https://github.com/cirospat/rtd-schematipo>`_, da potere clonare per progetti di documentazione online.
+[descrizione]
 
-Questo **Read the Docs** è uno schema tipo ottimizzato (per design e setting vari) per la pubblicazione di documenti. Settaggi quali colore della colonna sinistra e colori del testo dei paragrafi, titoli, ecc., possono essere cambiati nel file ``theme_override.css``.
-
-Altre impostazioni di visualizzazione grafica del documento su Read the Docs possono essere effettuate sui seguenti file, all'interno della cartella ``_templates``:
-
-- ``breadcrumbs.html``
-- ``footer.html``
-- ``layout.html``
-- ``searchbox.html``
-- ``versions.html``
+in collaborazione con:
 
 
-..  Important:: 
-    
-    questa visualizzazione è costruita su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un progetto repository dentro ``Github``, che a sua volta espone i contenuti (automaticamente) → su pagine HTML con il design ``Read the Docs``. Qui il `tutorial <http://googledocs.readthedocs.io/it/latest/>`_.
-    
+|REPLACE1|
 
 
-.. toctree::
-  :maxdepth: 2
-
-  Home <https://schema-tipo.readthedocs.io>
+|REPLACE2|
 
 
-.. toctree::  
-    :maxdepth: 2
-    :caption: Profile
-
-    social-profile
-    work-profile
-    
-
-.. toctree::  
-    :maxdepth: 2
-    :caption: Risorse
-
-    tutorial
-    mappe
-    webinar-opendata
+|REPLACE3|
 
 
-.. toctree::  
-    :maxdepth: 2
-    :caption: Palermo
-
-    open-data
-    servizi-digitali
-
-
-.. toctree::  
-    :maxdepth: 2
-    :caption: External links
-
-    fondamentali
-
-
-.. toctree::  
+.. toctree:: 
     :maxdepth: 3
-    :caption: Informativa Privacy
+    :caption: Indice 
 
-    privacy
+    introduzione
+    1-servizi-pubblici-digitali
+    2-rapporto-sportello-fisico-digitale
+    3-qualita-servizi
+    4-interoperabilita-once-only-principle
+    5-standardizzazione-soluzioni
 
+
+|REPLACE4|
+
+
+|REPLACE5|
+
+
+.. bottom of content
+
+
+.. |REPLACE1| raw:: html
+
+    <div class="progress">
+      <div class="progress-bar" style="width: 60%;"></div>
+    </div>
+.. |REPLACE2| raw:: html
+
+    <img width="100" src="https://raw.githubusercontent.com/RedazioneFPA/progetto_andrea/master/static/FPA.jpg" />
+.. |REPLACE3| raw:: html
+
+    <img width="100" src="https://raw.githubusercontent.com/RedazioneFPA/progetto_andrea/master/static/FPA.jpg" />
+.. |REPLACE4| raw:: html
+
+    (html tags to embed)
+.. |REPLACE5| raw:: html
+
+    (html tags to embed)
