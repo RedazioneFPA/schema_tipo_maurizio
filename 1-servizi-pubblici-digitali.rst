@@ -4,6 +4,9 @@
 1. SERVIZI PUBBLICI DIGITALI IN ITALIA: LO SCENARIO ATTUALE
 ###########################################################
 
+
+|REPLACE1|
+
 .. _h1348797e2c1b395c471e235d2332287d:
 
 1.1 Diffusione e utilizzo dei servizi pubblici digitali: l’Italia nel contesto europeo
@@ -17,11 +20,11 @@ Sul lato dell’offerta, pur non mantenendo il passo con il miglioramento dei se
 
 prova immagine
 
-|REPLACE1|
+|REPLACE2|
 
 prova testo colorato
 
-|REPLACE2|
+|REPLACE3|
 
 Ma è sul lato della domanda che l’Italia manifesta ancora le maggiori difficoltà. Secondo il DESI 2017, l’Italia si attesta alla terz’ultima posizione (25°) per \ |STYLE4|\ , una in meno della precedente rilevazione, con il 16% di utenti sul totale di utilizzatori di internet, a fronte di una media europea del 34%.
 
@@ -130,8 +133,13 @@ Sebbene l’ennesima revisione del Codice sia ancora caratterizzata da alcuni el
 
 .. |REPLACE1| raw:: html
 
-    <img src=”https://raw.githubusercontent.com/RedazioneFPA/andrea/master/static/noun_Community_943316_1f59a3.png” />
+    <div class="progress-container">
+          <div class="progress-bar" id="scrollprogressBar" style="width: 0%;"></div>
+        </div>
 .. |REPLACE2| raw:: html
+
+    <img src=”https://raw.githubusercontent.com/RedazioneFPA/andrea/master/static/noun_Community_943316_1f59a3.png” />
+.. |REPLACE3| raw:: html
 
     <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">prova testo colorato</span></p>
 
