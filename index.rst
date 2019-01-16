@@ -3,25 +3,7 @@
 
 PROGETTO ANDREA
 ###############
-<!DOCTYPE html>
-<html>
-<title>W3.CSS</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<body>
-<div class="w3-container">
 
-<h2>Progress Bar</h2>
-<p>The w3-container class can be used for a progress bar.</p>
-<p>The CSS width property can be used to set the height and width.</p>
-
-<div class="w3-border">
-  <div class="w3-grey" style="height:24px;width:20%"></div>
-</div>
-
-</div>
-</body>
-</html>
 [descrizione]
 
 in collaborazione con:
@@ -59,9 +41,26 @@ in collaborazione con:
 
 .. |REPLACE1| raw:: html
 
-    .progress <div class="progress">
-      <div class="progress-bar" style="width: 60%;"></div>
+    <!DOCTYPE html>
+    <html>
+    <title>W3.CSS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <body>
+    <div class="w3-container">
+    
+    <h2>Progress Bar</h2>
+    <p>The w3-container class can be used for a progress bar.</p>
+    <p>The CSS width property can be used to set the height and width.</p>
+    
+    <div class="w3-border">
+      <div class="w3-grey" style="height:24px;width:20%"></div>
     </div>
+    
+    </div>
+    </body>
+    </html>
+    
 .. |REPLACE2| raw:: html
 
     <img width="100" src="https://raw.githubusercontent.com/RedazioneFPA/progetto_andrea/master/static/FPA.jpg" />
